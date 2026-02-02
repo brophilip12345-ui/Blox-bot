@@ -29,4 +29,6 @@ async def farm(ctx, state: str):
     else:
         await ctx.send("❌ Please use `!farm on` or `!farm off`")
 
-bot.run(TOKEN)
+bot.run(client.run('MTQ2NzY5NDk3Nzc5NzU4Njk1NA.GCuhgm.hv015-U6ykItVafVke1_7Pdd3O0qn6LqH3abV4')
+)
+)
